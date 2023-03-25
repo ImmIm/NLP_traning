@@ -28,4 +28,11 @@ NLPScripts/       # Root directory.
 |- rulers.py      # rulers module
 |- sentiments.py  # module with sentiments parser
 |- stocksParse.py # module for named entity recognition 
+```
+## Output
 
+
+### Text input example
+<img title="Text example" alt="Text example" src="/images/boo.svg">
+### Output example
+<img title="Output example" alt="Output example" src="/images/boo.svg">
