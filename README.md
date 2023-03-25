@@ -34,5 +34,6 @@ NLPScripts/       # Root directory.
 
 ### Text input example
 <img title="Text example" alt="Text example" src="/images/boo.svg">
+
 ### Output example
 <img title="Output example" alt="Output example" src="/images/boo.svg">
