@@ -33,7 +33,7 @@ NLPScripts/       # Root directory.
 
 
 ### Text input example
-<img title="Text example" alt="Text example" src="/images/output_example.png">
+<img title="Output example" alt="Output example" src="/images/text.png">
 
 ### Output example
-<img title="Output example" alt="Output example" src="/images/text.png">
+<img title="Text example" alt="Text example" src="/images/output_example.png">
