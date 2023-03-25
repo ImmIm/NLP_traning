@@ -54,8 +54,6 @@ doc = nlp(text)
 
 data = get_data_filters()
 
-# see github repo for examples on sentence-transformers and Huggingface
-
 nlp.add_pipe("text_categorizer", 
     config={
         "data": data,
@@ -75,4 +73,3 @@ for item in final_data:
      print (item["cats"])
      print ()
 
-# displacy.serve(doc, host='localhost', port=3001, style='dep')
