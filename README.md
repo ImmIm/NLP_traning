@@ -19,7 +19,7 @@ dependencies are installed on your system:
 
 ### Folder structure
 
-Here's a folder structure for a Pandoc document:
+Here's a folder structure for a the application:
 
 ```
 NLPScripts/       # Root directory.
